@@ -2,7 +2,7 @@
 
 A decompiled APK source code of PowerKuy's Growtopia 3.81 mod menu.
 Mainly for the use of checking for stealers or malware.
-
+Please note: Decompiled sources tend to have errors and we cant know for sure if this is 100% working, or if it contains correct offsets. Disassembly and decompiling was a tedious process.
 # Why?
 
 We believe that all code and apps should be allowed within view of everybody.
